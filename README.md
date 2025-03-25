@@ -21,4 +21,6 @@ I am Gennaro, a passionate graduate in computer science who continues to cultiva
 - Front-end :computer:
 - React ⚛️
 - Music :minidisc:
+- Movies 🎥
 - Open source :octocat:
+- Astronomy :milky_way:
